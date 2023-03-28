@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FirstSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-28T08:39:14" hostname="WIN-UJASQ980C7K" time="0.877">
+  <properties/>
+  <testcase name="test countElements with empty list" classname="FirstSpec" time="0.877"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
